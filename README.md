@@ -29,5 +29,5 @@ Restart(link='http://192.168.1.1/',
   password="admin",
   driver='chrome', # name in lowercase 
   driver_path='chromedriver.exe'
- ):
+ )
 ```
