@@ -1,5 +1,5 @@
 # Restart Router
-## Restart Router TP-link TD-W8968 programmatically
+## how to Restart Router TP-link TD-W8968 programmatically
 
 ### Installation :
 
